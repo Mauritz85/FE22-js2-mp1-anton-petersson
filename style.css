@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+
+.button-div{
+    text-align: center
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.button-div{
+    display: flex;
+    margin-left: 100px;
+    padding-left: 6vw;
+    align-content: center;
+}
+
+ .choice-div{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-content: center;
+
+}
+
+img{
+    margin: 10px;
+    width: 30vw;
+    height: 50vh;
+}
+
+h3{
+    margin:0
+}
+
+h5{
+    margin:0.3rem;
+    margin-bottom:1rem
+}
+
